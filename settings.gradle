@@ -1,0 +1,3 @@
+rootProject.name='EBlog'
+include ':app'
+include ':ebloglib'

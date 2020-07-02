@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="network_error_please_retry">网络请求出错，请点击重试</string>
+    <string name="click_to_load_more">点击加载更多</string>
+    <string name="loading">正在加载...</string>
+    <string name="i_am_bottom_line">我是有底线的</string>
+</resources>
